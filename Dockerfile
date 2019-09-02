@@ -12,8 +12,8 @@ RUN apt install -y --no-install-recommends \
     jq \
     git \
     iputils-ping \
-    libcurl3 \
-    libicu63 \
+    libcurl4 \
+    libicu60 \
     libunwind8 \
     netcat \
     pandoc
