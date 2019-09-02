@@ -13,7 +13,7 @@ RUN apt install -y --no-install-recommends \
     git \
     iputils-ping \
     libcurl3 \
-    libicu55 \
+    libicu63 \
     libunwind8 \
     netcat \
     pandoc
